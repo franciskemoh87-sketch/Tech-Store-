@@ -1,3 +1,4 @@
-# Restaurant Ordering System
+# Tech Store
 
-A web-based restaurant ordering platform developed for my university e-commerce project.
+
+A web-based tech store platform developed for my university e-commerce project.
